@@ -1,0 +1,10 @@
+[
+    {
+        "name": "AI Inventory Management",
+        "description": "Use AI for demand forecasting to optimize stock levels."
+    },
+    {
+        "name": "Customer Recommendation System",
+        "description": "ML models to personalize shopping recommendations based on customer behavior."
+    }
+]
